@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yash Vardhan Singh</h1>
-<h3 align="center">A passionate AI/ML Engineer in India, who has Experience in finetuning SOTA Models across various tasks involving document Intelligence and Computer Vision With strong foundation and Interest in creating Explainable AI solutions</h3>
+<h3 align="center">A passionate Incoming AI/ML Engineer in India, who has Experience in finetuning SOTA Models across various tasks involving document Intelligence and Computer Vision With strong foundation and Interest in creating Explainable AI solutions</h3>
 
 - 🔭 I’m currently working on a **Cheque Validation and Signature Verification System**
+- Which Involves me making an entire pipeline to take in scanned images as input which will go through yolo and opencv to find region of interest and extract it then forwarding it to my ViT to create embeddings which will be compared by cosine similarity before an LLM generates a risk report with all the chequer's info along with base64 of signature and embeddings.
 
 - 🌱 I’m currently learning **Gen AI**
 
-- 🤝 I’m looking for help with **A Documentation creating Agentic System**
+- 🤝 I’m looking for help with **A Documentation creation and Testing Agentic System**
 
 - 📫 How to reach me **yash.ssingh20046@gmail.com**
 
